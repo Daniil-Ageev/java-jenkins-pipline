@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Daniil Ageev
-* Codeship : https://codeship.com/projects/326545/status?branch=master
+* Codeship : [![Codeship Status for Daniil-Ageev/javaschoolexam](https://app.codeship.com/projects/6de8c580-0c7a-0137-65e4-66aca2c17af0/status?branch=master)](https://app.codeship.com/projects/326545)
 
 
 ### How to start?  ###
