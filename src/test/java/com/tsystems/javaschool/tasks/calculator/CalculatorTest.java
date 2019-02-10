@@ -8,6 +8,14 @@ public class CalculatorTest {
     private Calculator calc = new Calculator();
 
     @Test
+    public void newTest(){
+        String input = "0 + 10";
+        String expectOutput = "10";
+        String result = calc.evaluate(input);
+        Assert.assertEquals(expectOutput, result);
+    }
+
+    @Test
     public void evaluate() {
         //given
         String input = "2+3";
