@@ -17,5 +17,10 @@ pipeline{
                 sh 'mvn -B test'
             }
         }
+        stage('Cleaning'){
+            steps {
+                sh 'mvn clean'
+            }
+        }
     }
 }
