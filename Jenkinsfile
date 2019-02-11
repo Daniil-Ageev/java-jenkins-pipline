@@ -1,5 +1,4 @@
-
-peline{
+pipline{
     agent any
     options {
         disableConcurrentBuilds()
